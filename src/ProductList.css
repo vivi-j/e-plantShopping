@@ -111,6 +111,14 @@ body {
     background-color: #c0392b;
 }
 
+.category-name {
+    text-align: center;
+    font-size: 24px; 
+    margin: 20px 0; 
+    font-weight: bold;
+  }
+  
+
 /* Pseudo-elements - Sale badge */
 .product-card::before {
     content: "SALE";
